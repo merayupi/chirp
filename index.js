@@ -36,7 +36,7 @@ const functionRegist = (firstname,lastname,email, kodereff) => new Promise((reso
             "sec-fetch-mode": "cors",
             "sec-fetch-site": "cross-site",
             "x-ucid": "LDA6pasedL0eT1H3G83aCbpw7n0",
-            "Referer": "https://www.fantium.com/",
+            "Referer": "https://waitlist.chirpwireless.io/",
             "Referrer-Policy": "strict-origin-when-cross-origin"
         },
         body: JSON.stringify({
